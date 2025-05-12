@@ -170,7 +170,7 @@ body {
         top: 0px; 
          margin-right: 60px;
          height: 750px; 
-         margin-top: 3rem ;
+         margin-top: 3 ;
         
 /*        
          max-width: 100%;
@@ -627,10 +627,6 @@ transform: scale(1.1);
     display: grid;
     grid-template-columns:  auto auto auto;
     gap: 60px;
-     /* flex-wrap: wrap; */
-    /* justify-content: center;
-    align-items: center;
-      */
     
 
 } 
@@ -644,11 +640,10 @@ transform: scale(1.1);
     width: 350px;
     height: 500px;
      
-    /* gap: 50px; */
+   
     border: 1px solid silver;
     border-radius: 5%;
-    /* box-sizing: inherit;
-     */
+    
      box-shadow: 2px 5px 14px 1px silver;
 
      background-color: #f8f9fa;
